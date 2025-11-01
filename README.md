@@ -1,15 +1,15 @@
 # 專案名稱：Go Info Website
 
+# 圍棋資訊網
+
+這是一個介紹圍棋文化及各國棋院的靜態網站專案。
+（這是個前端靜態網站，不需要伺服器即可運行）
+
 ## 🚀 即時網站預覽 (Live Demo)
 
 [**https://Hsiu0308.github.io/go-info-website/**](https://hsiu0308.github.io/go-info-website/)
 
 ---
-
-# 圍棋資訊網
-
-這是一個介紹圍棋文化及各國棋院的靜態網站專案。
-（這是個前端靜態網站，不需要伺服器即可運行）
 
 ## 功能特色
 
@@ -62,4 +62,4 @@ project 1/
 
 ## 作者
 
-Hansel Huang
+Hensel Huang
