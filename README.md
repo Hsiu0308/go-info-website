@@ -1,3 +1,11 @@
+# 專案名稱：Go Info Website
+
+## 🚀 即時網站預覽 (Live Demo)
+
+[**https://Hsiu0308.github.io/go-info-website/**](https://hsiu0308.github.io/go-info-website/)
+
+---
+
 # 圍棋資訊網
 
 這是一個介紹圍棋文化及各國棋院的靜態網站專案。
