@@ -62,5 +62,4 @@ project 1/
 
 ## 作者
 
-© 2025 Hensel Huang
-Maintainer: Hensel Huang
+Hensel Huang
